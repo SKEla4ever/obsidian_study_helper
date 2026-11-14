@@ -1,0 +1,4 @@
+.DS_Store
+__pycache__/
+starter/StudyVault/.obsidian/workspace*.json
+/helper_instance_0/
